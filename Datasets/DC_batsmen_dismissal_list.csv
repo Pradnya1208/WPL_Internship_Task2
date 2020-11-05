@@ -1,0 +1,123 @@
+,how out,fielder,bowler,runs,Inns,opposition,Ground,Start Date,Test_no,batsman,bowler_type,match_type,team
+0,caught,TWM Latham,C de Grandhomme,20,1,ODI v New Zealand,Hamilton,5 Feb 2020,ODI # 4235,P Shaw,right_arm_pace,T20,Delhi Capitals
+1,bowled,,KA Jamieson,24,2,ODI v New Zealand,Auckland,8 Feb 2020,ODI # 4239,P Shaw,right_arm_pace,T20,Delhi Capitals
+2,bowled,,TG Southee,16,1,Test v New Zealand,Wellington,21 Feb 2020,Test # 2385,P Shaw,right_arm_pace,T20,Delhi Capitals
+3,caught,TWM Latham,KA Jamieson,54,1,Test v New Zealand,Christchurch,29 Feb 2020,Test # 2387,P Shaw,right_arm_pace,T20,Delhi Capitals
+4,caught,TWM Latham,TG Southee,14,3,Test v New Zealand,Christchurch,29 Feb 2020,Test # 2387,P Shaw,right_arm_pace,T20,Delhi Capitals
+5,caught,D Bishoo,D Bishoo,134,1,Test v West Indies,Rajkot,4 Oct 2018,Test # 2319,P Shaw,right_arm_spin,T20,Delhi Capitals
+6,caught,TWM Latham,TA Boult,14,3,Test v New Zealand,Wellington,21 Feb 2020,Test # 2385,P Shaw,left_arm_pace,T20,Delhi Capitals
+7,caught,SO Hetmyer,JA Warrican,70,2,Test v West Indies,Hyderabad (Deccan),12 Oct 2018,Test # 2321,P Shaw,left_arm_spin,T20,Delhi Capitals
+8,caught,ADS Fletcher,DJG Sammy,5,1,v West Indies,Port of Spain,4 Jun 2011,T20I # 200,S Dhawan,right_arm_pace,T20,Delhi Capitals
+9,caught,Saeed Ajmal,Umar Gul,30,2,v Pakistan,Dhaka,21 Mar 2014,T20I # 378,S Dhawan,right_arm_pace,T20,Delhi Capitals
+10,bowled,,Al-Amin Hossain,1,2,v Bangladesh,Dhaka,28 Mar 2014,T20I # 389,S Dhawan,right_arm_pace,T20,Delhi Capitals
+11,bowled,,CR Woakes,33,2,v England,Birmingham,7 Sep 2014,T20I # 405,S Dhawan,right_arm_pace,T20,Delhi Capitals
+12,lbw,,CH Morris,11,1,v South Africa,Cuttack,5 Oct 2015,T20I # 457,S Dhawan,right_arm_pace,T20,Delhi Capitals
+13,caught,MS Wade,SR Watson,5,1,v Australia,Adelaide,26 Jan 2016,T20I # 485,S Dhawan,right_arm_pace,T20,Delhi Capitals
+14,caught,CT Bancroft,SR Watson,26,2,v Australia,Sydney,31 Jan 2016,T20I # 489,S Dhawan,right_arm_pace,T20,Delhi Capitals
+15,caught,MD Gunathilaka,CAK Rajitha,9,1,v Sri Lanka,Pune,9 Feb 2016,T20I # 496,S Dhawan,right_arm_pace,T20,Delhi Capitals
+16,caught,LD Chandimal,PVD Chameera,51,1,v Sri Lanka,Ranchi,12 Feb 2016,T20I # 497,S Dhawan,right_arm_pace,T20,Delhi Capitals
+17,bowled,,Al-Amin Hossain,2,1,v Bangladesh,Dhaka,24 Feb 2016,T20I # 509,S Dhawan,right_arm_pace,T20,Delhi Capitals
+18,caught,LD Chandimal,KMDN Kulasekara,1,2,v Sri Lanka,Dhaka,1 Mar 2016,T20I # 515,S Dhawan,right_arm_pace,T20,Delhi Capitals
+19,caught,Soumya Sarkar,Taskin Ahmed,60,2,v Bangladesh,Dhaka,6 Mar 2016,T20I # 521,S Dhawan,right_arm_pace,T20,Delhi Capitals
+20,bowled,,Mohammad Sami,6,2,v Pakistan,Kolkata,19 Mar 2016,T20I # 541,S Dhawan,right_arm_pace,T20,Delhi Capitals
+21,caught,UT Khawaja,NM Coulter-Nile,13,2,v Australia,Mohali,27 Mar 2016,T20I # 553,S Dhawan,right_arm_pace,T20,Delhi Capitals
+22,caught,MJ Santner,TG Southee,6,1,v New Zealand,Thiruvananthapuram,7 Nov 2017,T20I # 632,S Dhawan,right_arm_pace,T20,Delhi Capitals
+23,caught,H Klaasen,AL Phehlukwayo,72,1,v South Africa,Johannesburg,18 Feb 2018,T20I # 652,S Dhawan,right_arm_pace,T20,Delhi Capitals
+24,caught,Liton Das,Taskin Ahmed,55,2,v Bangladesh,Colombo (RPS),8 Mar 2018,T20I # 657,S Dhawan,right_arm_pace,T20,Delhi Capitals
+25,bowled,,Rubel Hossain,35,1,v Bangladesh,Colombo (RPS),14 Mar 2018,T20I # 660,S Dhawan,right_arm_pace,T20,Delhi Capitals
+26,caught,SR Thompson,KJ O'Brien,74,1,v Ireland,Dublin (Malahide),27 Jun 2018,T20I # 678,S Dhawan,right_arm_pace,T20,Delhi Capitals
+27,bowled,,O Thomas,3,2,v West Indies,Kolkata,4 Nov 2018,T20I # 707,S Dhawan,right_arm_pace,T20,Delhi Capitals
+28,caught,JP Behrendorff,B Stanlake,76,2,v Australia,Brisbane,21 Nov 2018,T20I # 712,S Dhawan,right_arm_pace,T20,Delhi Capitals
+29,bowled,,LH Ferguson,29,2,v New Zealand,Wellington,6 Feb 2019,T20I # 735,S Dhawan,right_arm_pace,T20,Delhi Capitals
+30,caught,C de Grandhomme,LH Ferguson,30,2,v New Zealand,Auckland,8 Feb 2019,T20I # 737,S Dhawan,right_arm_pace,T20,Delhi Capitals
+31,bowled,,KMA Paul,23,1,v West Indies,Lauderhill,4 Aug 2019,T20I # 843,S Dhawan,right_arm_pace,T20,Delhi Capitals
+32,caught,SS Cottrell,O Thomas,3,2,v West Indies,Providence,6 Aug 2019,T20I # 846,S Dhawan,right_arm_pace,T20,Delhi Capitals
+33,caught,Mahmudullah,Shafiul Islam,19,1,v Bangladesh,Nagpur,10 Nov 2019,T20I # 1014,S Dhawan,right_arm_pace,T20,Delhi Capitals
+34,lbw,,S Badree,0,2,v West Indies,Dhaka,23 Mar 2014,T20I # 382,S Dhawan,right_arm_spin,T20,Delhi Capitals
+35,caught,CA Lynn,GJ Maxwell,42,1,v Australia,Melbourne,29 Jan 2016,T20I # 486,S Dhawan,right_arm_spin,T20,Delhi Capitals
+36,lbw,,NL McCullum,1,2,v New Zealand,Nagpur,15 Mar 2016,T20I # 535,S Dhawan,right_arm_spin,T20,Delhi Capitals
+37,caught,TWM Latham,IS Sodhi,80,1,v New Zealand,Delhi,1 Nov 2017,T20I # 630,S Dhawan,right_arm_spin,T20,Delhi Capitals
+38,caught,F Behardien,JP Duminy,24,1,v South Africa,Centurion,21 Feb 2018,T20I # 654,S Dhawan,right_arm_spin,T20,Delhi Capitals
+39,caught,NLTC Perera,MD Gunathilaka,90,1,v Sri Lanka,Colombo (RPS),6 Mar 2018,T20I # 656,S Dhawan,right_arm_spin,T20,Delhi Capitals
+40,caught,NLTC Perera,A Dananjaya,8,2,v Sri Lanka,Colombo (RPS),12 Mar 2018,T20I # 659,S Dhawan,right_arm_spin,T20,Delhi Capitals
+41,bowled,,Aminul Islam,31,2,v Bangladesh,Rajkot,7 Nov 2019,T20I # 1007,S Dhawan,right_arm_spin,T20,Delhi Capitals
+42,lbw,,PWH de Silva,32,2,v Sri Lanka,Indore,7 Jan 2020,T20I # 1026,S Dhawan,right_arm_spin,T20,Delhi Capitals
+43,caught,DA Warner,JP Behrendorff,2,1,v Australia,Guwahati,10 Oct 2017,T20I # 624,S Dhawan,left_arm_pace,T20,Delhi Capitals
+44,bowled,,TA Boult,1,2,v New Zealand,Rajkot,4 Nov 2017,T20I # 631,S Dhawan,left_arm_pace,T20,Delhi Capitals
+45,bowled,,DJ Willey,4,2,v England,Manchester,3 Jul 2018,T20I # 684,S Dhawan,left_arm_pace,T20,Delhi Capitals
+46,caught,JT Ball,DJ Willey,5,2,v England,Bristol,8 Jul 2018,T20I # 690,S Dhawan,left_arm_pace,T20,Delhi Capitals
+47,lbw,,MA Starc,41,2,v Australia,Sydney,25 Nov 2018,T20I # 714,S Dhawan,left_arm_pace,T20,Delhi Capitals
+48,caught,MP Stoinis,JP Behrendorff,14,1,v Australia,Bengaluru,27 Feb 2019,T20I # 749,S Dhawan,left_arm_pace,T20,Delhi Capitals
+49,lbw,,SS Cottrell,1,2,v West Indies,Lauderhill,3 Aug 2019,T20I # 842,S Dhawan,left_arm_pace,T20,Delhi Capitals
+50,stumped,BJ Haddin,XJ Doherty,32,2,v Australia,Rajkot,10 Oct 2013,T20I # 331,S Dhawan,left_arm_spin,T20,Delhi Capitals
+51,lbw,,Shakib Al Hasan,23,1,v Bangladesh,Bengaluru,23 Mar 2016,T20I # 547,S Dhawan,left_arm_spin,T20,Delhi Capitals
+52,caught,Ariful Haque (sub),Shakib Al Hasan,10,2,v Bangladesh,Colombo (RPS),18 Mar 2018,T20I # 662,S Dhawan,left_arm_spin,T20,Delhi Capitals
+53,caught,N Pooran,FA Allen,43,1,v West Indies,Lucknow,6 Nov 2018,T20I # 709,S Dhawan,left_arm_spin,T20,Delhi Capitals
+54,caught,KA Pollard,FA Allen,92,2,v West Indies,Chennai,11 Nov 2018,T20I # 710,S Dhawan,left_arm_spin,T20,Delhi Capitals
+55,caught,DJ Mitchell,MJ Santner,5,2,v New Zealand,Hamilton,10 Feb 2019,T20I # 738,S Dhawan,left_arm_spin,T20,Delhi Capitals
+56,caught,DA Miller,T Shamsi,40,2,v South Africa,Mohali,18 Sep 2019,T20I # 888,S Dhawan,left_arm_spin,T20,Delhi Capitals
+57,caught,T Bavuma,T Shamsi,36,1,v South Africa,Bengaluru,22 Sep 2019,T20I # 893,S Dhawan,left_arm_spin,T20,Delhi Capitals
+58,caught,MD Gunathilaka,PADLR Sandakan,52,1,v Sri Lanka,Pune,10 Jan 2020,T20I # 1027,S Dhawan,left_arm_spin,T20,Delhi Capitals
+59,caught,JW Dernbach,SCJ Broad,61,1,v England,Manchester,31 Aug 2011,T20I # 204,A Rahane,right_arm_pace,T20,Delhi Capitals
+60,caught,C Kieswetter,ST Finn,0,1,v England,Kolkata,29 Oct 2011,T20I # 214,A Rahane,right_arm_pace,T20,Delhi Capitals
+61,caught,SR Patel,TT Bresnan,19,2,v England,Pune,20 Dec 2012,T20I # 292,A Rahane,right_arm_pace,T20,Delhi Capitals
+62,caught,JE Root,JW Dernbach,3,1,v England,Mumbai,22 Dec 2012,T20I # 294,A Rahane,right_arm_pace,T20,Delhi Capitals
+63,caught,Umar Gul,Umar Gul,28,1,v Pakistan,Ahmedabad,28 Dec 2012,T20I # 298,A Rahane,right_arm_pace,T20,Delhi Capitals
+64,bowled,,AD Mathews,3,1,v Sri Lanka,Dhaka,6 Apr 2014,T20I # 400,A Rahane,right_arm_pace,T20,Delhi Capitals
+65,caught,LD Chandimal,CAK Rajitha,4,1,v Sri Lanka,Pune,9 Feb 2016,T20I # 496,A Rahane,right_arm_pace,T20,Delhi Capitals
+66,caught,DJ Bravo,AD Russell,40,1,v West Indies,Mumbai,31 Mar 2016,T20I # 556,A Rahane,right_arm_pace,T20,Delhi Capitals
+67,caught,DJ Bravo,AD Russell,7,2,v West Indies,Lauderhill,27 Aug 2016,T20I # 562,A Rahane,right_arm_pace,T20,Delhi Capitals
+68,caught,BMAJ Mendis,BMAJ Mendis,21,1,v Sri Lanka,Pallekele,7 Aug 2012,T20I # 255,A Rahane,right_arm_spin,T20,Delhi Capitals
+69,caught,Umar Akmal,Shahid Afridi,42,1,v Pakistan,Bengaluru,25 Dec 2012,T20I # 296,A Rahane,right_arm_spin,T20,Delhi Capitals
+70,bowled,,MM Ali,8,2,v England,Birmingham,7 Sep 2014,T20I # 405,A Rahane,right_arm_spin,T20,Delhi Capitals
+71,caught,H Masakadza,AG Cremer,33,1,v Zimbabwe,Harare,17 Jul 2015,T20I # 440,A Rahane,right_arm_spin,T20,Delhi Capitals
+72,caught,TM Dilshan,SMSM Senanayake,25,1,v Sri Lanka,Ranchi,12 Feb 2016,T20I # 497,A Rahane,right_arm_spin,T20,Delhi Capitals
+73,caught,BJ Haddin,DE Bollinger,19,1,v Australia,Dhaka,30 Mar 2014,T20I # 393,A Rahane,left_arm_pace,T20,Delhi Capitals
+74,caught,AB de Villiers,WD Parnell,32,2,v South Africa,Dhaka,4 Apr 2014,T20I # 399,A Rahane,left_arm_pace,T20,Delhi Capitals
+75,lbw,,Mohammad Amir,0,2,v Pakistan,Dhaka,27 Feb 2016,T20I # 512,A Rahane,left_arm_pace,T20,Delhi Capitals
+76,caught,C Munro,C Munro,23,2,v New Zealand,Rajkot,4 Nov 2017,T20I # 631,S Iyer,right_arm_pace,T20,Delhi Capitals
+77,caught,N Dickwella,N Pradeep,24,1,v Sri Lanka,Cuttack,20 Dec 2017,T20I # 633,S Iyer,right_arm_pace,T20,Delhi Capitals
+78,lbw,,NLTC Perera,0,1,v Sri Lanka,Indore,22 Dec 2017,T20I # 634,S Iyer,right_arm_pace,T20,Delhi Capitals
+79,caught,Liton Das,Soumya Sarkar,62,1,v Bangladesh,Nagpur,10 Nov 2019,T20I # 1014,S Iyer,right_arm_pace,T20,Delhi Capitals
+80,caught,KA Pollard,KA Pollard,4,2,v West Indies,Hyderabad (Deccan),6 Dec 2019,T20I # 1020,S Iyer,right_arm_pace,T20,Delhi Capitals
+81,caught,MD Shanaka,CBRLS Kumara,34,2,v Sri Lanka,Indore,7 Jan 2020,T20I # 1026,S Iyer,right_arm_pace,T20,Delhi Capitals
+82,caught,MJ Guptill,IS Sodhi,6,1,v New Zealand,Thiruvananthapuram,7 Nov 2017,T20I # 632,S Iyer,right_arm_spin,T20,Delhi Capitals
+83,caught,Mohammad Naim,Aminul Islam,22,1,v Bangladesh,Delhi,3 Nov 2019,T20I # 1000,S Iyer,right_arm_spin,T20,Delhi Capitals
+84,caught,BA King,HR Walsh,10,1,v West Indies,Thiruvananthapuram,8 Dec 2019,T20I # 1022,S Iyer,right_arm_spin,T20,Delhi Capitals
+85,caught,TG Southee,IS Sodhi,44,2,v New Zealand,Auckland,26 Jan 2020,T20I # 1034,S Iyer,right_arm_spin,T20,Delhi Capitals
+86,caught,TL Seifert,IS Sodhi,1,1,v New Zealand,Wellington,31 Jan 2020,T20I # 1036,S Iyer,right_arm_spin,T20,Delhi Capitals
+87,stumped,Q de Kock,BC Fortuin,5,1,v South Africa,Bengaluru,22 Sep 2019,T20I # 893,S Iyer,left_arm_spin,T20,Delhi Capitals
+88,caught,PADLR Sandakan,PADLR Sandakan,4,1,v Sri Lanka,Pune,10 Jan 2020,T20I # 1027,S Iyer,left_arm_spin,T20,Delhi Capitals
+89,stumped,TL Seifert,MJ Santner,17,1,v New Zealand,Hamilton,29 Jan 2020,T20I # 1035,S Iyer,left_arm_spin,T20,Delhi Capitals
+90,caught,CAK Walton,JE Taylor,38,1,v West Indies,Kingston,9 Jul 2017,T20I # 617,RR Pant,right_arm_pace,T20,Delhi Capitals
+91,caught,N Pradeep,PVD Chameera,23,1,v Sri Lanka,Colombo (RPS),6 Mar 2018,T20I # 656,RR Pant,right_arm_pace,T20,Delhi Capitals
+92,bowled,,Rubel Hossain,7,2,v Bangladesh,Colombo (RPS),8 Mar 2018,T20I # 657,RR Pant,right_arm_pace,T20,Delhi Capitals
+93,caught,DM Bravo,CR Brathwaite,1,2,v West Indies,Kolkata,4 Nov 2018,T20I # 707,RR Pant,right_arm_pace,T20,Delhi Capitals
+94,bowled,,KMA Paul,58,2,v West Indies,Chennai,11 Nov 2018,T20I # 710,RR Pant,right_arm_pace,T20,Delhi Capitals
+95,caught,JP Behrendorff,AJ Tye,20,2,v Australia,Brisbane,21 Nov 2018,T20I # 712,RR Pant,right_arm_pace,T20,Delhi Capitals
+96,caught,AT Carey,AJ Tye,0,2,v Australia,Sydney,25 Nov 2018,T20I # 714,RR Pant,right_arm_pace,T20,Delhi Capitals
+97,caught,KS Williamson,BM Tickner,28,2,v New Zealand,Hamilton,10 Feb 2019,T20I # 738,RR Pant,right_arm_pace,T20,Delhi Capitals
+98,caught,KA Pollard,O Thomas,4,1,v West Indies,Lauderhill,4 Aug 2019,T20I # 843,RR Pant,right_arm_pace,T20,Delhi Capitals
+99,caught,Mohammad Naim,Shafiul Islam,27,1,v Bangladesh,Delhi,3 Nov 2019,T20I # 1000,RR Pant,right_arm_pace,T20,Delhi Capitals
+100,bowled,,Soumya Sarkar,6,1,v Bangladesh,Nagpur,10 Nov 2019,T20I # 1014,RR Pant,right_arm_pace,T20,Delhi Capitals
+101,caught,JO Holder,KA Pollard,0,1,v West Indies,Mumbai,11 Dec 2019,T20I # 1024,RR Pant,right_arm_pace,T20,Delhi Capitals
+102,caught,SS Cottrell,SP Narine,0,2,v West Indies,Lauderhill,3 Aug 2019,T20I # 842,RR Pant,right_arm_spin,T20,Delhi Capitals
+103,caught,JO Holder,SS Cottrell,18,2,v West Indies,Hyderabad (Deccan),6 Dec 2019,T20I # 1020,RR Pant,left_arm_pace,T20,Delhi Capitals
+104,caught,SO Hetmyer,K Pierre,5,1,v West Indies,Lucknow,6 Nov 2018,T20I # 709,RR Pant,left_arm_spin,T20,Delhi Capitals
+105,bowled,,MJ Santner,4,2,v New Zealand,Wellington,6 Feb 2019,T20I # 735,RR Pant,left_arm_spin,T20,Delhi Capitals
+106,caught,JA Richardson,DJM Short,1,1,v Australia,Bengaluru,27 Feb 2019,T20I # 749,RR Pant,left_arm_spin,T20,Delhi Capitals
+107,caught,T Shamsi,BC Fortuin,4,2,v South Africa,Mohali,18 Sep 2019,T20I # 888,RR Pant,left_arm_spin,T20,Delhi Capitals
+108,caught,AL Phehlukwayo,BC Fortuin,19,1,v South Africa,Bengaluru,22 Sep 2019,T20I # 893,RR Pant,left_arm_spin,T20,Delhi Capitals
+109,caught,SW Billings,MA Wood,6,2,v England,Hobart,7 Feb 2018,T20I # 645,MP Stoinis,right_arm_pace,T20,Delhi Capitals
+110,caught,AK Markram (sub),AL Phehlukwayo,5,2,v South Africa,Carrara,17 Nov 2018,T20I # 711,MP Stoinis,right_arm_pace,T20,Delhi Capitals
+111,caught,KD Karthik,JJ Bumrah,4,1,v India,Melbourne,23 Nov 2018,T20I # 713,MP Stoinis,right_arm_pace,T20,Delhi Capitals
+112,bowled,,S Kaul,7,2,v India,Bengaluru,27 Feb 2019,T20I # 749,MP Stoinis,right_arm_pace,T20,Delhi Capitals
+113,caught,T Banton,TK Curran,26,2,v England,Southampton,8 Sep 2020,T20I # 1097,MP Stoinis,right_arm_pace,T20,Delhi Capitals
+114,caught,JJ Roy,AU Rashid,0,2,v England,Birmingham,27 Jun 2018,T20I # 679,MP Stoinis,right_arm_spin,T20,Delhi Capitals
+115,caught,DJ Malan,AU Rashid,35,1,v England,Southampton,6 Sep 2020,T20I # 1096,MP Stoinis,right_arm_spin,T20,Delhi Capitals
+116,caught,Asif Ali,Usman Shinwari,16,2,v Pakistan,Harare,5 Jul 2018,T20I # 686,MP Stoinis,left_arm_pace,T20,Delhi Capitals
+117,caught,Fakhar Zaman,Mohammad Amir,12,1,v Pakistan,Harare,8 Jul 2018,T20I # 689,MP Stoinis,left_arm_pace,T20,Delhi Capitals
+118,caught,SC Williams,T Muzarabani,13,2,v Zimbabwe,Harare,19 Jul 2015,T20I # 442,AR Patel,right_arm_pace,T20,Delhi Capitals
+119,caught,F du Plessis,JA Morkel,9,1,v South Africa,Cuttack,5 Oct 2015,T20I # 457,AR Patel,right_arm_pace,T20,Delhi Capitals
+120,caught,WP Masakadza (sub),N Madziva,18,2,v Zimbabwe,Harare,18 Jun 2016,T20I # 558,AR Patel,right_arm_pace,T20,Delhi Capitals
+121,caught,KS Williamson,TA Boult,5,2,v New Zealand,Rajkot,4 Nov 2017,T20I # 631,AR Patel,left_arm_pace,T20,Delhi Capitals

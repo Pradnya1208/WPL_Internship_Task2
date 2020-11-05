@@ -1,0 +1,51 @@
+,dismissal,Dis,bwd,c_fie,c_wk,st,lbw,hw,ro,oth,no,ave,0s,batsman,match_type,Team
+0,right-arm bowler,58,11,34,6,1,6,0,0,0,0,27.55,5,RG Sharma,T20,Mumbai Indians
+1,left-arm bowler,22,4,11,2,2,3,0,0,0,0,16.95,1,RG Sharma,T20,Mumbai Indians
+2,unknown arm,5,0,0,0,0,0,0,5,0,0,35.20,0,RG Sharma,T20,Mumbai Indians
+3,pace bowler,56,10,31,8,0,7,0,0,0,0,23.83,5,RG Sharma,T20,Mumbai Indians
+4,spin bowler,24,5,14,0,3,2,0,0,0,0,26.50,1,RG Sharma,T20,Mumbai Indians
+5,mixture/unknown,5,0,0,0,0,0,0,5,0,0,35.20,0,RG Sharma,T20,Mumbai Indians
+6,right-arm pace,43,7,25,6,0,5,0,0,0,0,26.55,4,RG Sharma,T20,Mumbai Indians
+7,right-arm spin,15,4,9,0,1,1,0,0,0,0,30.40,1,RG Sharma,T20,Mumbai Indians
+8,left-arm pace,13,3,6,2,0,2,0,0,0,0,14.84,1,RG Sharma,T20,Mumbai Indians
+9,left-arm spin,9,1,5,0,2,1,0,0,0,0,20.00,0,RG Sharma,T20,Mumbai Indians
+10,mixture/unknown,5,0,0,0,0,0,0,5,0,0,35.20,0,RG Sharma,T20,Mumbai Indians
+11,right-arm bowler,28,3,16,3,3,3,0,0,0,0,29.21,1,Q de Kock,T20,Mumbai Indians
+12,left-arm bowler,9,3,3,3,0,0,0,0,0,0,20.33,2,Q de Kock,T20,Mumbai Indians
+13,unknown arm,2,0,0,0,0,0,0,2,0,0,14.50,0,Q de Kock,T20,Mumbai Indians
+14,pace bowler,18,5,8,4,0,1,0,0,0,0,23.94,2,Q de Kock,T20,Mumbai Indians
+15,spin bowler,19,1,11,2,3,2,0,0,0,0,30.00,1,Q de Kock,T20,Mumbai Indians
+16,mixture/unknown,2,0,0,0,0,0,0,2,0,0,14.50,0,Q de Kock,T20,Mumbai Indians
+17,right-arm pace,12,2,6,3,0,1,0,0,0,0,31.50,0,Q de Kock,T20,Mumbai Indians
+18,right-arm spin,16,1,10,0,3,2,0,0,0,0,27.50,1,Q de Kock,T20,Mumbai Indians
+19,left-arm pace,6,3,2,1,0,0,0,0,0,0,8.83,2,Q de Kock,T20,Mumbai Indians
+20,left-arm spin,3,0,1,2,0,0,0,0,0,0,43.33,0,Q de Kock,T20,Mumbai Indians
+21,mixture/unknown,2,0,0,0,0,0,0,2,0,0,14.50,0,Q de Kock,T20,Mumbai Indians
+22,right-arm bowler,8,1,5,1,0,1,0,0,0,0,18.00,0,I Kishan,T20/other,Mumbai Indians
+23,left-arm bowler,3,1,1,1,0,0,0,0,0,0,6.00,1,I Kishan,T20/other,Mumbai Indians
+24,unknown arm,1,0,0,0,0,0,0,1,0,0,24.00,0,I Kishan,T20/other,Mumbai Indians
+25,pace bowler,9,1,5,2,0,1,0,0,0,0,10.88,1,I Kishan,T20/other,Mumbai Indians
+26,spin bowler,2,1,1,0,0,0,0,0,0,0,32.00,0,I Kishan,T20/other,Mumbai Indians
+27,mixture/unknown,1,0,0,0,0,0,0,1,0,0,24.00,0,I Kishan,T20/other,Mumbai Indians
+28,right-arm pace,7,1,4,1,0,1,0,0,0,0,13.14,0,I Kishan,T20/other,Mumbai Indians
+29,right-arm spin,1,0,1,0,0,0,0,0,0,0,52.00,0,I Kishan,T20/other,Mumbai Indians
+30,left-arm pace,2,0,1,1,0,0,0,0,0,0,3.00,1,I Kishan,T20/other,Mumbai Indians
+31,left-arm spin,1,1,0,0,0,0,0,0,0,0,12.00,0,I Kishan,T20/other,Mumbai Indians
+32,right-arm bowler,4,1,2,1,0,0,0,0,0,0,8.75,0,KH Pandya,T20,Mumbai Indians
+33,left-arm bowler,1,0,0,1,0,0,0,0,0,0,4.00,0,KH Pandya,T20,Mumbai Indians
+34,pace bowler,5,1,2,2,0,0,0,0,0,0,7.80,0,KH Pandya,T20,Mumbai Indians
+35,right-arm pace,4,1,2,1,0,0,0,0,0,0,8.75,0,KH Pandya,T20,Mumbai Indians
+36,left-arm pace,1,0,0,1,0,0,0,0,0,0,4.00,0,KH Pandya,T20,Mumbai Indians
+37,right-arm bowler,4,1,2,1,0,0,0,0,0,0,8.75,0,KH Pandya,T20,Mumbai Indians
+38,left-arm bowler,1,0,0,1,0,0,0,0,0,0,4.00,0,KH Pandya,T20,Mumbai Indians
+39,pace bowler,5,1,2,2,0,0,0,0,0,0,7.80,0,KH Pandya,T20,Mumbai Indians
+40,right-arm pace,4,1,2,1,0,0,0,0,0,0,8.75,0,KH Pandya,T20,Mumbai Indians
+41,left-arm pace,1,0,0,1,0,0,0,0,0,0,4.00,0,KH Pandya,T20,Mumbai Indians
+42,right-arm bowler,35,10,15,3,4,3,0,0,0,0,15.77,1,K Pollard,T20,Mumbai Indians
+43,left-arm bowler,13,2,11,0,0,0,0,0,0,0,17.69,0,K Pollard,T20,Mumbai Indians
+44,pace bowler,28,7,16,3,0,2,0,0,0,0,17.60,0,K Pollard,T20,Mumbai Indians
+45,spin bowler,20,5,10,0,4,1,0,0,0,0,14.45,1,K Pollard,T20,Mumbai Indians
+46,right-arm pace,21,6,10,3,0,2,0,0,0,0,18.09,0,K Pollard,T20,Mumbai Indians
+47,right-arm spin,14,4,5,0,4,1,0,0,0,0,12.28,1,K Pollard,T20,Mumbai Indians
+48,left-arm pace,7,1,6,0,0,0,0,0,0,0,16.14,0,K Pollard,T20,Mumbai Indians
+49,left-arm spin,6,1,5,0,0,0,0,0,0,0,19.50,0,K Pollard,T20,Mumbai Indians
